@@ -1,0 +1,12 @@
+{
+  "issues": [
+    {"key": "SUP-1041", "fields": {"summary": "Checkout fails with card declined for all Visa cards", "priority": {"name": "Highest"}, "created": "2026-10-31T06:10:00.000+0530", "labels": [], "assignee": {"displayName": "Meera"}, "status": {"name": "In Progress"}}},
+    {"key": "SUP-1042", "fields": {"summary": "Partner webhook returns 401 after key rotation", "priority": {"name": "High"}, "created": "2026-10-31T05:30:00.000+0530", "labels": [], "assignee": {"displayName": "Farhan"}, "status": {"name": "In Progress"}}},
+    {"key": "SUP-1038", "fields": {"summary": "Daily settlement report missing two merchants", "priority": {"name": "Medium"}, "created": "2026-10-30T09:15:00.000+0530", "labels": ["sla-at-risk"], "assignee": {"displayName": "Divya"}, "status": {"name": "Waiting for vendor"}}},
+    {"key": "SUP-1036", "fields": {"summary": "Rider app shows stale location after reconnect", "priority": {"name": "Medium"}, "created": "2026-10-30T16:45:00.000+0530", "labels": [], "assignee": null, "status": {"name": "Open"}}},
+    {"key": "SUP-1043", "fields": {"summary": "Cannot reset password from mobile browser", "priority": {"name": "Medium"}, "created": "2026-10-31T10:05:00.000+0530", "labels": [], "assignee": {"displayName": "Sneha"}, "status": {"name": "Open"}}},
+    {"key": "SUP-1019", "fields": {"summary": "Invoice PDF shows wrong tax label", "priority": {"name": "Low"}, "created": "2026-10-27T11:00:00.000+0530", "labels": ["sla-breached"], "assignee": {"displayName": "Pooja"}, "status": {"name": "Waiting for customer"}}},
+    {"key": "SUP-1044", "fields": {"summary": "Request: add a second admin user", "priority": {"name": "Low"}, "created": "2026-10-31T11:20:00.000+0530", "labels": [], "assignee": {"displayName": "Imran"}, "status": {"name": "Open"}}},
+    {"key": "SUP-1040", "fields": {"summary": "Question about API rate limits", "priority": null, "created": "2026-10-30T12:00:00.000+0530", "labels": [], "assignee": null, "status": {"name": "Open"}}}
+  ]
+}
